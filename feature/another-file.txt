@@ -1,1 +1,2 @@
 this file created for testing pull command
+this update is for checking 3-way merge.
